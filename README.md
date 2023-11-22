@@ -1,9 +1,9 @@
 # Hello, I'm Klaudja! 👋
 ## About Me
-## I'm a passionate junior Python developer , 27 years young based in Germany. 
+ 
 
 
-
+- 💻 I'm a passionate junior Python developer , 27 years young based in Germany.
 - 🎓 Bachelor's in Technology and Information
 - 🌱 I'm on a journey of continuous learning, exploring the vast possibilities that Python offers
 - 👨‍💻 On the lookout for internship opportunities
