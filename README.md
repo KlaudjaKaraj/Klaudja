@@ -4,7 +4,7 @@
 
 
 - 💻 I'm a passionate junior Python developer , 27 years young based in Germany.
-- 🎓 Bachelor's in Technology and Information
+- 🎓 Bachelor's degree in Technology and Information
 - 🌱 I'm on a journey of continuous learning, exploring the vast possibilities that Python offers
 - 👨‍💻 On the lookout for internship opportunities
 - 💬 Let's chat about anything Python or development-related
