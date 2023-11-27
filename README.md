@@ -8,7 +8,6 @@
 - 🌱 I'm on a journey of continuous learning, exploring the vast possibilities that Python offers
 - 👨‍💻 On the lookout for internship opportunities
 - 💬 Let's chat about anything Python or development-related
-- ⚡ Fun fact: Beyond the code, I find balance in the pages of a good book and the zen of yoga poses 📚🧘
 
 
 
