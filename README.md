@@ -12,5 +12,5 @@
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Klaudja-Dejeli-blue)](https://www.linkedin.com/in/klaudja-dejeli-pythondev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/klaudja-dejeli-pythondev/)
 
